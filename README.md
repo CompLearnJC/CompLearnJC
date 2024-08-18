@@ -1,3 +1,5 @@
+<div align="center"><img src="https://github.com/CompLearnJC/CompLearnJC/blob/main/CompLearnJC-trans.png?raw=true" width="40%" /></div>
+
 # 🧠 Compositional Learning Journal Club
 
 Welcome to the **Compositional Learning Journal Club**!\
