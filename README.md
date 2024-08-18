@@ -1,7 +1,6 @@
 <div align="center"><img src="https://github.com/CompLearnJC/CompLearnJC/blob/main/CompLearnJC-trans.png?raw=true" width="40%" /></div>
 
-# 🧠 Compositional Learning Journal Club
-
+# <p align="center"> Compositional Learning Journal Club </p>
 Welcome to the **Compositional Learning Journal Club**!\
 We are a research-focused community dedicated to exploring compositional problems in machine learning.
 
